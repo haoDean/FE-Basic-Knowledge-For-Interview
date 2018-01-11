@@ -1,0 +1,31 @@
+{
+  "name": "fe-basic-knowledge-for-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "node ./scripts/web-script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OldDriverWaitingForUs/FE-Basic-Knowledge-For-Interview.git"
+  },
+  "keywords": [
+    "Front-end",
+    "basic",
+    "knowledge",
+    "interview"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OldDriverWaitingForUs/FE-Basic-Knowledge-For-Interview/issues"
+  },
+  "homepage": "https://github.com/OldDriverWaitingForUs/FE-Basic-Knowledge-For-Interview#readme",
+  "devDependencies": {
+    "chalk": "^2.3.0",
+    "gulp": "^3.9.1",
+    "markdown-it": "^8.4.0"
+  }
+}
